@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="14.98s"
+		durationms="14980"
+		type="root"
+		rid="11b3573d76090bf4"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="23/05/2017 09:40:53"
+		timestampiso="2017-05-23T08:40:53"
+		timeoutfactor="1"
+		module="Connect">
+		<detail>
+			Connect
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.075"
+			timeRelativeToTestModuleStartTime="00:01.077"
+			timeWallClock="09:40:54"
+			time="00:01.075"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Excel.Connect' at 20;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@processname='EXCEL']//container[@name='Ribbon']/container[@name='Lower Ribbon']/element[@name='Anaplan']/container[@name='Data']/button[@name='Connect']/button[@name='Connect']"
+				fullname="ExcelSmokeTestRepository.Excel.Connect"
+				id="912a6eade5c045faa6a577ef71dead87"
+				timeout="60000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Connect.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.980"
+			timeRelativeToTestModuleStartTime="00:14.982"
+			timeWallClock="09:41:08"
+			time="00:14.980"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

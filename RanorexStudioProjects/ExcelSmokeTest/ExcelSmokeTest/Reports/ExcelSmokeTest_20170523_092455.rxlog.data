@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Ignored"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="2b67dc8300e697cf"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="23/05/2017 09:24:55"
+		timestampiso="2017-05-23T08:24:55"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+	</activity>
+</report>

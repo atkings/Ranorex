@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="d5fd090b-4d5c-4eb6-a06d-d8ad458f1487"
+mode="Desktop"
+rxversion="7.0">
+	<name>
+		SelectApp
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="SelectApp"
+	namespace="ExcelSmokeTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc="33;17"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="b7fadbab-af10-4f1b-884b-45e773234fb6"
+		sx="737"
+		sy="60"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="b5a40bf3-e4a2-4f48-9aee-323db38607e1"
+			sourcename="Recorder">
+				<element
+				capabilities="uiautomation"
+				dontcache="False"
+				enabled="True"
+				flavor="uia"
+				hasfocus="False"
+				index="8"
+				prefcap="tabpage"
+				rect="704,43,83,37"
+				role="tabpage"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="selected"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="title"
+					type="System.String">
+						Anaplan
+					</attribute>
+					<attribute
+					name="accesskey"
+					type="System.String">
+						Alt, Y 1
+					</attribute>
+					<attribute
+					name="classname"
+					type="System.String">
+						NetUIRibbonTab
+					</attribute>
+					<attribute
+					name="controltype"
+					type="System.String">
+						TabItem
+					</attribute>
+					<attribute
+					name="iscontentelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iscontrolelement"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="iskeyboardfocusable"
+					type="System.Boolean">
+						True
+					</attribute>
+					<attribute
+					name="localizedcontroltype"
+					type="System.String">
+						Tab Item
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						Anaplan
+					</attribute>
+					<attribute
+					name="processid"
+					type="System.Int32">
+						4280
+					</attribute>
+				</element>
+				<path>
+					/form[@processname='EXCEL']/element[2]//container[@name='Ribbon']/tabpagelist[@name='Ribbon Tabs']/tabpage[@name='Anaplan']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="1cdd544c-1afb-41ee-859d-f957192e25c8">
+				/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCACoAUoDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCnRRRU
+nKFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFLGgdiDmpbsbUqcZpuTsl8xKKl8hfU0eQvqaLvsV7Oj/
+AD/h/wAEioqXyF9TR5C+pou+wezo/wA/4f8ABIqKl8hfU0eQvqaLvsHs6P8AP+H/AASKipfIX1NH
+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
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="f10cc66e-14fa-442d-8b12-af3a35721538"
+	name="ExcelSmokeTestRepository"
+	relativepath="ExcelSmokeTestRepository.rxrep"
+	rxversion="7.0">
+		<codegen
+		classname="ExcelSmokeTestRepository"
+		namespace="ExcelSmokeTest">
+		</codegen>
+		<rootfolder
+		id="3913e735-eb9a-4991-8cae-af070800596a"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		SelectApp.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

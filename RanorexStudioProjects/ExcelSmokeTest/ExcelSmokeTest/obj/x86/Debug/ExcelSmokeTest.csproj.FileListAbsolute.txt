@@ -1,0 +1,8 @@
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\bin\Debug\ExcelSmokeTest.rxtmg
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\bin\Debug\ExcelSmokeTest.rxtst
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\bin\Debug\ExcelSmokeTest.exe.config
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\bin\Debug\ExcelSmokeTest.exe
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\bin\Debug\ExcelSmokeTest.pdb
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\obj\x86\Debug\ExcelSmokeTest.csprojResolveAssemblyReference.cache
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\obj\x86\Debug\ExcelSmokeTest.exe
+C:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\obj\x86\Debug\ExcelSmokeTest.pdb

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="16b98699535dcac"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="23/05/2017 09:41:58"
+		timestampiso="2017-05-23T08:41:58"
+		timeoutfactor="1"
+		module="SelectBlankWorkbook">
+		<detail>
+			SelectBlankWorkbook
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.037"
+			timeRelativeToTestModuleStartTime="00:01.038"
+			timeWallClock="09:41:59"
+			time="00:01.037"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Excel.AIOStartDocument' at 117;163.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@processname='EXCEL']//container[@automationid='BackstageView']/?/?/container[@name='New']/container[@name='Featured']/button[@name='Blank workbook']"
+				fullname="ExcelSmokeTestRepository.Excel.AIOStartDocument"
+				id="f0b6946f97f54bf48ee98c3a8196e9e8"
+				timeout="60000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\SelectBlankWorkbook.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

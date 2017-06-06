@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3d7130a1-f5ba-4f52-bfc1-c1992471e54b"
+mode="Desktop"
+rxversion="7.0">
+	<name>
+		ConnectModel
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ConnectModel"
+	namespace="ExcelSmokeTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="f10cc66e-14fa-442d-8b12-af3a35721538"
+	name="ExcelSmokeTestRepository"
+	relativepath="ExcelSmokeTestRepository.rxrep"
+	rxversion="7.0">
+		<codegen
+		classname="ExcelSmokeTestRepository"
+		namespace="ExcelSmokeTest">
+		</codegen>
+		<rootfolder
+		id="3913e735-eb9a-4991-8cae-af070800596a"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ConnectModel.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

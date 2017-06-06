@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="10.53s"
+		durationms="10527"
+		type="root"
+		rid="18594ac88062195c"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="19/05/2017 16:25:28"
+		timestampiso="2017-05-19T15:25:28"
+		timeoutfactor="1"
+		module="Connect">
+		<detail>
+			Connect
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.428"
+			timeRelativeToTestModuleStartTime="00:00.428"
+			timeWallClock="16:25:28"
+			time="00:00.428"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Excel.Connect' at 20;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@processname='EXCEL']//container[@name='Ribbon']/container[@name='Lower Ribbon']/element[@name='Anaplan']/container[@name='Data']/button[@name='Connect']/button[@name='Connect']"
+				fullname="ExcelSmokeTestRepository.Excel.Connect"
+				id="912a6eade5c045faa6a577ef71dead87"
+				timeout="60000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Connect.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.282"
+			timeRelativeToTestModuleStartTime="00:10.282"
+			timeWallClock="16:25:38"
+			time="00:10.282"
+			level="Warn"
+			category="WinForms">
+			<message>
+				The control was recognized as a WinForms .NET 1.1 control. If this application targets the .NET Framework v1.1, then please ignore this message. Otherwise, the object recognition is not correct, most probably due to an installation issue. Please, uninstall and reinstall Ranorex and try again.<br/>Process: 'EXCEL' (pid 8072)<br/>The following website provides more information on this technology limitation:<br/>http://www.ranorex.com/support/user-guide-20/technology-instrumentation/general-troubleshooting.html#c3250<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="WinFormsNet11"
+				showInProgressDialog="False"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Connect.cs"
+				codeline="83"
+				loglvl="Warn"
+				itemindex="0">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.527"
+			timeRelativeToTestModuleStartTime="00:10.527"
+			timeWallClock="16:25:38"
+			time="00:10.527"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

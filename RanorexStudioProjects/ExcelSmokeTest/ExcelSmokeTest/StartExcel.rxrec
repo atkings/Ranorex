@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="9c84cf6d-b387-49f9-9e87-a1b0bc57bd0e"
+mode="Desktop"
+rxversion="7.0">
+	<name>
+		StartExcel
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartExcel"
+	namespace="ExcelSmokeTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<filename>
+				C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE
+			</filename>
+			<workingdir>
+				C:\Program Files (x86)\Microsoft Office\root\Office16
+			</workingdir>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="f10cc66e-14fa-442d-8b12-af3a35721538"
+	name="ExcelSmokeTestRepository"
+	relativepath="ExcelSmokeTestRepository.rxrep"
+	rxversion="7.0">
+		<codegen
+		classname="ExcelSmokeTestRepository"
+		namespace="ExcelSmokeTest">
+		</codegen>
+		<rootfolder
+		id="3913e735-eb9a-4991-8cae-af070800596a"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartExcel.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

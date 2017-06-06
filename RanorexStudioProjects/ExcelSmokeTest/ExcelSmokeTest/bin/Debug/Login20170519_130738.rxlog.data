@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="15.17s"
+		durationms="15171"
+		type="root"
+		rid="14d185552a5ab604"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="19/05/2017 13:07:44"
+		timestampiso="2017-05-19T12:07:44"
+		timeoutfactor="1"
+		module="Login">
+		<detail>
+			Login
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.432"
+			timeRelativeToTestModuleStartTime="00:00.433"
+			timeWallClock="13:07:45"
+			time="00:00.432"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Book11Excel.LogIn' at 31;25.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@class='XLMAIN']//container[@name='Ribbon']/container[@name='Lower Ribbon']/element[@name='Anaplan']/container[@name='Access']/button[@name='Log In']"
+				fullname="ExcelSmokeTestRepository.Book11Excel.LogIn"
+				id="001a5d89d8774d1eb9043b7857d70258"
+				timeout="60000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.170"
+			timeRelativeToTestModuleStartTime="00:15.171"
+			timeWallClock="13:07:59"
+			time="00:15.170"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

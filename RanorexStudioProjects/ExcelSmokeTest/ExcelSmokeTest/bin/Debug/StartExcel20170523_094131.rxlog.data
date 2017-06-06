@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="279d685d668ab740"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="23/05/2017 09:41:39"
+		timestampiso="2017-05-23T08:41:39"
+		timeoutfactor="1"
+		module="StartExcel">
+		<detail>
+			StartExcel
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.995"
+			timeRelativeToTestModuleStartTime="00:00.996"
+			timeWallClock="09:41:40"
+			time="00:00.995"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\StartExcel.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="1a2e5326bbd89202"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="MIchael Atkins"
+		host="DESKTOP-BLJSCNU"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-GB"
+		screenresolution="5760x1200"
+		timestamp="19/05/2017 13:05:39"
+		timestampiso="2017-05-19T12:05:39"
+		timeoutfactor="1"
+		module="Login">
+		<detail>
+			Login
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.423"
+			timeRelativeToTestModuleStartTime="00:00.423"
+			timeWallClock="13:05:39"
+			time="00:00.423"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Book11Excel.LogIn' at 31;25.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@class='XLMAIN']//container[@name='Ribbon']/container[@name='Lower Ribbon']/element[@name='Anaplan']/container[@name='Access']/button[@name='Log In']"
+				fullname="ExcelSmokeTestRepository.Book11Excel.LogIn"
+				id="001a5d89d8774d1eb9043b7857d70258"
+				timeout="60000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.136"
+			timeRelativeToTestModuleStartTime="00:05.136"
+			timeWallClock="13:05:44"
+			time="00:05.136"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'EXCEL.Frame.Username' at 56;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='' and @processname='EXCEL']/container[@automationid='Frame']/?/?/text[@automationid='Username']"
+				fullname="ExcelSmokeTestRepository.EXCEL.Frame.Username"
+				id="72aad00122c543d39a093df95e2459ac"
+				timeout="90000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.442"
+			timeRelativeToTestModuleStartTime="00:06.443"
+			timeWallClock="13:05:45"
+			time="00:06.442"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'michael.atkins{RShiftKey down}@{RShiftKey up}anaplan.com'.
+			</message>
+			<metainfo
+				itemindex="2"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="90"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.458"
+			timeRelativeToTestModuleStartTime="00:09.459"
+			timeWallClock="13:05:48"
+			time="00:09.458"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'EXCEL.Frame.Password' at 87;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='' and @processname='EXCEL']/container[@automationid='Frame']/?/?/text[@automationid='Password']"
+				fullname="ExcelSmokeTestRepository.EXCEL.Frame.Password"
+				id="2f90d086bcc546b19e4372d22ad5deec"
+				timeout="90000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.346"
+			timeRelativeToTestModuleStartTime="00:10.347"
+			timeWallClock="13:05:49"
+			time="00:10.346"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LShiftKey down}!Y{LShiftKey up}erdan42876666{RShiftKey down}!{RShiftKey up}'.
+			</message>
+			<metainfo
+				itemindex="4"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="98"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.205"
+			timeRelativeToTestModuleStartTime="00:12.205"
+			timeWallClock="13:05:51"
+			time="00:12.205"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'EXCEL.Frame.ButtonOk' at 48;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='' and @processname='EXCEL']/container[@automationid='Frame']//button[@automationid='Ok']"
+				fullname="ExcelSmokeTestRepository.EXCEL.Frame.ButtonOk"
+				id="c84f7ae1b5464412bcc4e143729fda0a"
+				timeout="90000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.088"
+			timeRelativeToTestModuleStartTime="00:13.088"
+			timeWallClock="13:05:52"
+			time="00:13.088"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'GettingStartedServingWebContent.Authorize' at 47;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ec2-extensionsapitest1-1-paris5.anaplan.com']//form[#'confirmationForm']/?/?/input[@name='authorize']"
+				fullname="ExcelSmokeTestRepository.GettingStartedServingWebContent.Authorize"
+				id="713e12c775114e98999917f9f1f1fa82"
+				timeout="60000"
+				codefile="c:\Users\MIchael Atkins\Documents\Ranorex\RanorexStudio Projects\ExcelSmokeTest\ExcelSmokeTest\Login.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
